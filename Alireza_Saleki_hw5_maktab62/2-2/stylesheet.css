@@ -1,0 +1,22 @@
+body {
+  background-color: black;
+}
+
+.yellow-box {
+  width: 400px;
+  height: 400px;
+  background-color: yellow;
+  display: inline-block;
+  position: fixed;
+  right: 0;
+  bottom: 0;
+}
+.red-box {
+  width: 100px;
+  height: 100px;
+  background-color: red;
+  display: inline-block;
+  position: absolute;
+  right: 0;
+  top: 25px;
+}
